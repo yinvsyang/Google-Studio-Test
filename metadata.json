@@ -1,0 +1,5 @@
+{
+  "name": "Nuclear Fission 3D Sim",
+  "description": "A 3D interactive simulation of a nuclear chain reaction using React Three Fiber, featuring real-time physics and AI-powered analysis of the reaction state.",
+  "requestFramePermissions": []
+}
